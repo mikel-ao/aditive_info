@@ -1,0 +1,5 @@
+# Ignorar cuadernos de extracción pesados o temporales
+extraccion_dataset_aditivos.ipynb
+
+# Ignorar datasets de gran volumen (800k registros)
+dataset_800k_aditivos.csv
